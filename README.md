@@ -1,0 +1,2 @@
+# stakecito
+stake
